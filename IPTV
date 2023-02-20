@@ -3,25 +3,28 @@
 https://x-stream.space/musica/stream1/playlist.m3u8
  
 #EXTINF:-1,tvg-id="PELICULAS ACCION",tvg-logo="",ACCION 
-https://x-stream.space/musica/stream1/playlist.m3u8
+https://x-stream.space/acccion/stream2/playlist.m3u8
 
 #EXTINF:-1,tvg-id="PELICULAS COMEDIA",tvg-logo="",COMEDIA 
-https://x-stream.space/musica/stream1/playlist.m3u8
+https://x-stream.space/comedia/stream3/playlist.m3u8
 
 #EXTINF:-1,tvg-id="DOCUMENTALES",tvg-logo="",DOCUMENTALES    
-https://x-stream.space/musica/stream1/playlist.m3u8
+https://x-stream.space/documentales/stream4/playlist.m3u8
 
 #EXTINF:-1,tvg-id="FICCION",tvg-logo="",FICCION 
-https://x-stream.space/musica/stream1/playlist.m3u8
+http://x-stream.space:1935/ficcion/stream6/playlist.m3u8
 
 #EXTINF:-1,tvg-id="INFANTILES",tvg-logo="",INFANTILES 
-https://x-stream.space/musica/stream1/playlist.m3u8
+https://x-stream.space/infantiles/stream7/playlist.m3u8
+
+#EXTINF:-1,tvg-id="RTC",tvg-logo="",RTC
+https://x-stream.space/rtc/stream8/playlist.m3u8
 
 #EXTINF:-1,tvg-id="SERIES",tvg-logo="",SERIES 
-https://x-stream.space/musica/stream1/playlist.m3u8
+https://x-stream.space/series/stream9/playlist.m3u8
 
 #EXTINF:-1,tvg-id="TELENOVELAS",tvg-logo="",TELENOVELAS 
-https://x-stream.space/musica/stream1/playlist.m3u8
+https://x-stream.space/telenovelas/stream10/playlist.m3u8
 
 #EXTINF:-1,tvg-id="PELICULAS TERROR",tvg-logo="",TERROR 
-https://x-stream.space/musica/stream1/playlist.m3u8
+https://x-stream.space/terror/stream11/playlist.m3u8
