@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="VIDEOS MUSICALES",tvg-logo="",MUSICALES 
+https://x-stream.space/musica/stream1/playlist.m3u8
+ 
+#EXTINF:-1,tvg-id="PELICULAS ACCION",tvg-logo="",ACCION 
+https://x-stream.space/musica/stream1/playlist.m3u8
+
+#EXTINF:-1,tvg-id="PELICULAS COMEDIA",tvg-logo="",COMEDIA 
+https://x-stream.space/musica/stream1/playlist.m3u8
+
+#EXTINF:-1,tvg-id="DOCUMENTALES",tvg-logo="",DOCUMENTALES    
+https://x-stream.space/musica/stream1/playlist.m3u8
+
+#EXTINF:-1,tvg-id="FICCION",tvg-logo="",FICCION 
+https://x-stream.space/musica/stream1/playlist.m3u8
+
+#EXTINF:-1,tvg-id="INFANTILES",tvg-logo="",INFANTILES 
+https://x-stream.space/musica/stream1/playlist.m3u8
+
+#EXTINF:-1,tvg-id="SERIES",tvg-logo="",SERIES 
+https://x-stream.space/musica/stream1/playlist.m3u8
+
+#EXTINF:-1,tvg-id="TELENOVELAS",tvg-logo="",TELENOVELAS 
+https://x-stream.space/musica/stream1/playlist.m3u8
+
+#EXTINF:-1,tvg-id="PELICULAS TERROR",tvg-logo="",TERROR 
+https://x-stream.space/musica/stream1/playlist.m3u8
