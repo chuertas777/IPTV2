@@ -3,7 +3,7 @@
 https://x-stream.space/musica/stream1/playlist.m3u8
  
 #EXTINF:-1,tvg-id="PELICULAS ACCION",tvg-logo="",ACCION 
-https://x-stream.space/acccion/stream2/playlist.m3u8
+https://x-stream.space/accion/stream2/playlist.m3u8
 
 #EXTINF:-1,tvg-id="PELICULAS COMEDIA",tvg-logo="",COMEDIA 
 https://x-stream.space/comedia/stream3/playlist.m3u8
