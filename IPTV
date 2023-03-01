@@ -18,6 +18,5 @@ https://maxmediasa.duckdns.org:8443/cantinazo
 http://crmm.duckdns.org:9090/hls/momento24/live.m3u8
 
 #EXTINF:-1,tvg-id="EMISION",tvg-logo="",EMISION MONITOR
-https://x-stream.space/rtc/stream8/playlist.m3u8
-
+https://maxmediasa.duckdns.org/hls/stream.m3u8
 
