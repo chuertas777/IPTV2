@@ -1,30 +1,23 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="VIDEOS MUSICALES",tvg-logo="",MUSICALES 
-https://x-stream.space/musica/stream1/playlist.m3u8
- 
-#EXTINF:-1,tvg-id="PELICULAS ACCION",tvg-logo="",ACCION 
-https://x-stream.space/accion/stream2/playlist.m3u8
+#EXTINF:-1,tvg-id="ENTRETENIMIENTO",tvg-logo="",ANTIESTRES 
+http://maxdemocanales.ddns.net:1935/maxdemoantiestres/antiestres.stream/playlist.m3u8
 
-#EXTINF:-1,tvg-id="PELICULAS COMEDIA",tvg-logo="",COMEDIA 
-https://x-stream.space/comedia/stream3/playlist.m3u8
+#EXTINF:-1,tvg-id="MUSICA POPULAR",tvg-logo="",CANTINAZO 
+http://maxdemocanales.ddns.net:1935/maxdemocantinazo/cantinazo.stream/playlist.m3u8
 
-#EXTINF:-1,tvg-id="DOCUMENTALES",tvg-logo="",DOCUMENTALES    
-https://x-stream.space/documentales/stream4/playlist.m3u8
+#EXTINF:-1,tvg-id="MUSICA",tvg-logo="",SUPERMUSICA 
+http://maxdemocanales.ddns.net:1935/maxdemosupermusica/supermusica.stream/playlist.m3u8
 
-#EXTINF:-1,tvg-id="FICCION",tvg-logo="",FICCION 
-http://x-stream.space:1935/ficcion/stream6/playlist.m3u8
+#EXTINF:-1,tvg-id="NOTICIAS Y ENTRETENIMIENTO",tvg-logo="",MOMENTO24    
+https://hvmax.hvmultiplay.com/hls/momento24.m3u8
 
-#EXTINF:-1,tvg-id="INFANTILES",tvg-logo="",INFANTILES 
-https://x-stream.space/infantiles/stream7/playlist.m3u8
+#EXTINF:-1,tvg-id="EMISORA CANTINAZO",tvg-logo="",EMISORA CANTINAZO 
+https://maxmediasa.duckdns.org:8443/cantinazo
 
-#EXTINF:-1,tvg-id="RTC",tvg-logo="",RTC
+#EXTINF:-1,tvg-id="EMISORA MOMENTO24",tvg-logo="",EMISORA MOMENTO24 
+http://crmm.duckdns.org:9090/hls/momento24/live.m3u8
+
+#EXTINF:-1,tvg-id="EMISION",tvg-logo="",EMISION MONITOR
 https://x-stream.space/rtc/stream8/playlist.m3u8
 
-#EXTINF:-1,tvg-id="SERIES",tvg-logo="",SERIES 
-https://x-stream.space/series/stream9/playlist.m3u8
 
-#EXTINF:-1,tvg-id="TELENOVELAS",tvg-logo="",TELENOVELAS 
-https://x-stream.space/telenovelas/stream10/playlist.m3u8
-
-#EXTINF:-1,tvg-id="PELICULAS TERROR",tvg-logo="",TERROR 
-https://x-stream.space/terror/stream11/playlist.m3u8
